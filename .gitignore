@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+.DS_Store?
+*.key
+
+testing/
+__pycache__/
+.ipynb_checkpoints/
+vib/
+*.egg-info/
