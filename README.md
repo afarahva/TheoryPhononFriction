@@ -1,6 +1,8 @@
 TheoryPhononFriction
 ======
 
+[![DOI](https://zenodo.org/badge/805287199.svg)](https://zenodo.org/doi/10.5281/zenodo.12666847)
+
 *Data and scripts used for "A theory of phonon-induced friction on molecular adsorbates"*
 
 <p align="center">
